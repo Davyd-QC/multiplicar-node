@@ -1,0 +1,16 @@
+{
+    "name": "03-app",
+    "version": "1.0.0",
+    "description": "Es un demo de comando",
+    "main": "app3.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "David QC",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "yargs": "^16.1.0"
+    },
+    "devDependencies": {}
+}
